@@ -8,10 +8,11 @@ The Rapidly Exploring Random Tree is a path planning algorithm. It effectively s
 
 
 Insert 3D image 
-![This is the result of the 3-D RRT](  "3-D RRT")
+![This is the result of the 3-D RRT]( https://github.com/PeterJochem/RRT/blob/master/all_Points.png "All the Points on the 3-D RRT")
 
-Insert 2D image
-![This is the result of the 2-D RRT](  "2-D RRT")
+![This is the result of the 3-D RRT]( https://github.com/PeterJochem/RRT/blob/master/goalPath.png "Path Found by RRT")
+
+![This is the result of the 2-D RRT]( https://github.com/PeterJochem/RRT/blob/master/2D.png  "2-D RRT")
 
 
 
